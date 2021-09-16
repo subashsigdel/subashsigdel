@@ -6,7 +6,7 @@
 <h3 align="center">self studying AI & Meachine learning  </h3>
 
 
-- 🔭 I am also intrest in IOT (internet of things) , AR (Agumented reality) , VR (virtual reality) and physic
+- 🔭 I am also intrest in IOT (internet of things) , AR (Agumented reality) , VR (virtual reality)
 - 🌱 Learning in progress
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
