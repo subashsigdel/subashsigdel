@@ -2,11 +2,11 @@
 
 
 
-<h1 align="center">Hallo 👋 i am subash sigdel</h1>
+<h1 align="center">👋 I am subash sigdel</h1>
 <h3 align="center">self studying AI & Meachine learning  </h3>
 
 
-- 🔭 I am also intrest in IOT (internet of things) , AR (Agumented reality) , VR (virtual reality)
+- 🔭 I am also intrest in IOT (internet of things) , Agumented reality , virtual reality
 - 🌱 Learning in progress
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
