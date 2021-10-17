@@ -7,7 +7,7 @@
 
 
 - 🔭 I am also intrest in IOT (internet of things) , Agumented reality , virtual reality
-- 🌱 Learning in progress
+- 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
 
