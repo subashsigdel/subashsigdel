@@ -13,8 +13,8 @@
 - 🥅 Looking for some good projects for learning
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
-<img src="https://user-images.githubusercontent.com/77682103/149609857-dfb2e427-a9cf-4726-bc3e-d50be1892085.jpg" alt="linkdin" width="40" height="40"/>
+Linkdin:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+
                
               
 
