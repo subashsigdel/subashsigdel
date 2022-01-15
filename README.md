@@ -11,9 +11,7 @@
 - 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
-
-
-Linkdin:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
 
                
               
