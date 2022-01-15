@@ -3,6 +3,7 @@
 
 
 <h1 align="center">👋 I am subash sigdel</h1>
+
 <h3 align="center"> AI & Meachine learning  </h3>
 
 
@@ -10,11 +11,12 @@
 - 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
+- <img src="https://user-images.githubusercontent.com/77682103/149609636-553b3585-21be-47b5-ade1-f883f6dcebba.jpg" </img>
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
               
               
 
