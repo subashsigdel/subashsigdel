@@ -8,11 +8,12 @@
 
 
 
+
 - 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality
 - 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
-<br><img src="https://user-images.githubusercontent.com/77682103/149610076-d641e05b-cda6-4192-8b3d-3b99d6c10bb8.png" /><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+<br><img src="(https://user-images.githubusercontent.com/77682103/149610145-fab86365-118d-44a2-b471-0c2a2944d48f.png" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
 
 
 
