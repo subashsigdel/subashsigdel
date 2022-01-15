@@ -11,8 +11,10 @@
 - 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
-<img src="https://icon-library.com/icon/icon-pngs-18.html.html" alt="aws" width="40" height="40"/> 
+<img src="https://user-images.githubusercontent.com/77682103/149609753-08d788fd-7d72-4ad3-83cd-ac4a8c1a2fab.jpg" alt="<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+              " width="40" height="40"/> 
               
+
 
 
 
