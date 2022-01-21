@@ -13,10 +13,11 @@
 - 🌱 Learning 
 - 👯 I love to do  projects
 - 🥅 Looking for some good projects for learning
-- <img src="https://user-images.githubusercontent.com/77682103/149610145-fab86365-118d-44a2-b471-0c2a2944d48f.png" alt="linkdin" width="20" height="20" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="subash5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/subash5?trk=profile-badge">subash sigdel</a></div>
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subash-5&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-5&langs_count=10&theme=tokyonight)]()
 
 
@@ -33,5 +34,3 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"/>
-
-
