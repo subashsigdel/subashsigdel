@@ -4,15 +4,16 @@
 
 <h1 align="center">👋 I am subash sigdel</h1>
 
-<h3 align="center"> AI & Meachine learning  </h3>
+<h3 align="center">mainly focoused in AI & Meachine learning  </h3>
 
 
 
 
-- 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality
-- 🌱 Learning 
+- 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality & Metaverse
+- 🌱 learning new day new things
+- 🥅 Always ready to learn
 - 👯 I love to do  projects
-- 🥅 Looking for some good projects for learning
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subash-5&count_private=true&theme=tokyonight&showicons=true)]()
