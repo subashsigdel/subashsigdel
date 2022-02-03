@@ -20,7 +20,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-5&langs_count=4&theme=tokyonight)]()
 
 
-<h1 align="center"> Languages and Tools : <h1>
+<h1 align="center"> Languages And Tools : <h1>
 
 
 <img align="center" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
