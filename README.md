@@ -10,7 +10,7 @@
 
 
 - 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality & Metaverse
-- 🌱 learning new day new things
+- 🌱 Learning new day new things
 - 🥅 Always ready to learn
 - 👯 I love to do  projects
 
