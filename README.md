@@ -33,4 +33,3 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"/>
-  <img align="center" src="https://duckduckgo.com/?q=react+js+icon&iar=images&iax=images&ia=images&iai=http%3A%2F%2Fih0.redbubble.net%2Fimage.127584817.4804%2Fsticker%2C375x360.u2.png" alt="tensorflow" width="50"/>
