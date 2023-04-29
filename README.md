@@ -20,7 +20,7 @@ current_job: AI Engineer
 education:
   [
     "Self-Taught Independent Developer",
-    "Bachelor's in Information Technology",
+    "Bachelor's in Computer Science and Information Technology",
   ]
 
 
