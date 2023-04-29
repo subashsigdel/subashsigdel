@@ -1,7 +1,7 @@
 
 
 
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?text=👋 I am Subash Sigdel&animation=fadeIn&type=waving&color=gradient&height=200"/>
 </p>
 
