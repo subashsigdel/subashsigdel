@@ -48,6 +48,16 @@ hobbies: ["Gaming", "Research"]
 
 
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subashsigdel&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subashsigdel&langs_count=4&theme=tokyonight)]()
+
+
+
+-----
+
+![Snake animation](https://github.com/subashsigdel/subashsigdel/blob/output/github-contribution-grid-snake.svg)
+
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -74,13 +84,3 @@ hobbies: ["Gaming", "Research"]
 </p>
 
 ---
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subashsigdel&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subashsigdel&langs_count=4&theme=tokyonight)]()
-
-
-
------
-
-![Snake animation](https://github.com/subashsigdel/subashsigdel/blob/output/github-contribution-grid-snake.svg)
