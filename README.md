@@ -1,8 +1,6 @@
 
-
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?text=👋 I am Subash Sigdel&animation=fadeIn&type=waving&color=gradient&height=200"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=5uba5h&height=100&section=header"/>
 </p>
 
 ---
@@ -11,7 +9,9 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+
+<h2>👋&nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Subash Sigdel
