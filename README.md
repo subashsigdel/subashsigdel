@@ -29,7 +29,7 @@ fields_of_interests:
     "AI:
      - Reinforcement Learning
      - Computer Vision"
-    "Web develpment",
+    "Web development",
     "Virtual Reality / XR",
     "Metaverse"
   ]
