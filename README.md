@@ -19,7 +19,7 @@ located_in: Kathmandu,Nepal
 current_job: AI Engineer
 education:
   [
-    "Self-Taught Independent Developer",
+   
     "Bachelor's in Computer Science and Information Technology",
   ]
 
