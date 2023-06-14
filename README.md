@@ -20,7 +20,8 @@ current_job: AI Engineer
 education:
   [
    
-    "Bachelor's in Computer Science and Information Technology",
+    " Bachelor's in Information Technology and Computer Science"
+    
   ]
 
 
