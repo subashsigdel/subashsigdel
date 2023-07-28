@@ -57,7 +57,7 @@ hobbies: ["Gaming", "Research"]
 
 -----
 
-![Snake animation](https://github.com/subashsigdel/subashsigdel/blob/output/github-contribution-grid-snake.svg)
+
 
 ---  
   
