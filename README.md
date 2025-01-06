@@ -88,18 +88,3 @@ hobbies: ["Gaming", "Research"]
 [![An image of @subashsigdel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subashsigdel)](https://holopin.io/@subashsigdel)
 
 ---
-
-
-### 📊 GitHub Stat :
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashsigdel&hide_border=true&show_icons=true&locale=en&layout=compact&theme=nightowl" 
-       alt="subashsigdel's Top Languages" 
-       style="display: block; margin: auto;" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=subashsigdel&hide_border=true&show_icons=true&locale=en&theme=nightowl" 
-       alt="subashsigdel's GitHub Stats" 
-       style="display: block; margin: auto;" />
-</p>
