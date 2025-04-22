@@ -16,7 +16,7 @@
 ```yaml
 name: Subash Sigdel
 located_in: Kathmandu,Nepal
-current_job: -
+current_job: Make a machine mimic Human
 education:
   [
    
