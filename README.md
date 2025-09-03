@@ -30,9 +30,7 @@ fields_of_interests:
     "AI:
      - Reinforcement Learning
      - Computer Vision"
-    "Web development",
-    "Virtual Reality / XR",
-    "Metaverse"
+    "Philosophy"
   ]
 technical_background:
   [
@@ -40,9 +38,7 @@ technical_background:
     "Intern- Artificial Intelligence Engineer(TelemusAI)",
      ]
   
-current_Status: ["Focused on Machine Learning Projects"]
-current_Goals: ["Do AI Projects and learn new day new things."]
-hobbies: ["Gaming", "Research"]
+hobbies: ["Research"]
 ```
   
 ---
