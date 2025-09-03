@@ -16,7 +16,7 @@
 ```yaml
 name: Subash Sigdel
 located_in: Kathmandu,Nepal
-current_job: Make a machine to mimic Human
+current_job: Philosopher Of Machine Minds
 education:
   [
    
