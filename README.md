@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=5uba5h&height=100&section=header"/>
-</p>
-
-<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Computer+Vision;Reinforcement+Learning;Spatial+Intelligence;"alt="Typing SVG" />
   </a>
