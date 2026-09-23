@@ -21,10 +21,11 @@ fields_of_interest:
 
 experience:
   - Intern — Research & Development  [ Robotics Association of Nepal ]
-  - Intern — Artificial Intelligence Engineer  [ TelemusAI ]
+  - Research Assistant - Nepal Applied Mathematics and Informatics Institute for Research
 
 hobbies:
   - Research
+  - Reading Books
 ```
 
 ---
